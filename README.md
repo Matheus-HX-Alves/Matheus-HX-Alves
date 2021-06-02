@@ -2,6 +2,6 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/Matheus-HX-Alves">
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Matheus-HX-Alves&show_icons=true&include_all_commits=true&count_private=true&theme=OneDark"/>
-  <img height="180em" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-HX-Alves&layout=compact&langs_count=16&theme=OneDark"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Matheus-HX-Alves&show_icons=true&include_all_commits=true&count_private=true&theme=shades-of-purple"/>
+  <img height="180em" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-HX-Alves&layout=compact&langs_count=16&theme=shades-of-purple"/>
 <div>
