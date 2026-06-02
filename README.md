@@ -1,17 +1,17 @@
 # Oi, eu sou Matheus Alves
 
-Sou um profissional em evolucao na area de **Qualidade de Software**, com foco em **testes automatizados**, **testes de API**, **testes E2E** e boas praticas de automacao.
+Sou um profissional em evolução na área de **Qualidade de Software**, com foco em **testes automatizados**, **testes de API**, **testes E2E** e boas práticas de automação.
 
-Tenho construido projetos praticos com Cypress, Postman, Docker, JavaScript, TypeScript e Python, sempre buscando escrever testes mais claros, reutilizaveis e bem documentados.
+Tenho construído projetos práticos com Cypress, Postman, Docker, JavaScript, TypeScript e Python, sempre buscando escrever testes mais claros, reutilizáveis e bem documentados.
 
 ---
 
 ## Sobre mim
 
-- Foco em QA, automacao de testes e qualidade de software
-- Experiencia pratica com testes E2E usando Cypress
+- Foco em QA, automação de testes e qualidade de software
+- Experiência prática com testes E2E usando Cypress
 - Estudos e projetos envolvendo APIs, Postman, Docker e CI
-- Interesse em arquitetura de testes, evidencias, boas praticas e melhoria continua
+- Interesse em arquitetura de testes, evidências, boas práticas e melhoria contínua
 - Em constante aprendizado para evoluir como QA Engineer / SDET
 
 ---
@@ -33,30 +33,30 @@ Tenho construido projetos praticos com Cypress, Postman, Docker, JavaScript, Typ
 
 ### TESTES-AUTOMATIZADOS-SEVEREST-DOCKER
 
-Projeto de automacao de testes da API ServeRest em ambiente local com Docker, usando Cypress e TypeScript.
+Projeto de automação de testes da API ServeRest em ambiente local com Docker, usando Cypress e TypeScript.
 
-[Ver repositorio](https://github.com/Matheus-HX-Alves/TESTES-AUTOMATIZADOS-SEVEREST-DOCKER)
+[Ver repositório](https://github.com/Matheus-HX-Alves/TESTES-AUTOMATIZADOS-SEVEREST-DOCKER)
 
 ### PROJECT-CYPRESS-SAUCEDEMO
 
-Template de automacao E2E com Cypress para o site SauceDemo, com foco em arquitetura clara, comandos reutilizaveis, dados externos, evidencias, CI e documentacao objetiva.
+Template de automação E2E com Cypress para o site SauceDemo, com foco em arquitetura clara, comandos reutilizáveis, dados externos, evidências, CI e documentação objetiva.
 
-[Ver repositorio](https://github.com/Matheus-HX-Alves/PROJECT-CYPRESS-SAUCEDEMO)
+[Ver repositório](https://github.com/Matheus-HX-Alves/PROJECT-CYPRESS-SAUCEDEMO)
 
 ### Banco-Carrefour-Postman
 
-Projeto voltado a testes de API com Postman, reforcando praticas de validacao, organizacao de colecoes e documentacao de cenarios.
+Projeto voltado a testes de API com Postman, reforçando práticas de validação, organização de coleções e documentação de cenários.
 
-[Ver repositorio](https://github.com/Matheus-HX-Alves/Banco-Carrefour-Postman)
+[Ver repositório](https://github.com/Matheus-HX-Alves/Banco-Carrefour-Postman)
 
 ---
 
 ## O que estou estudando
 
-- Automacao de testes E2E e API
-- Estrategias de testes para aplicacoes web
+- Automação de testes E2E e API
+- Estratégias de testes para aplicações web
 - Docker aplicado a ambientes de teste
-- CI/CD para execucao automatizada de suites
+- CI/CD para execução automatizada de suítes
 - TypeScript aplicado a projetos de qualidade
 
 ---
@@ -64,9 +64,9 @@ Projeto voltado a testes de API com Postman, reforcando praticas de validacao, o
 ## Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-Matheus--HX--Alves-181717?style=for-the-badge&logo=github)](https://github.com/Matheus-HX-Alves)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Matheus-Alves](https://www.linkedin.com/in/matheusalves22/)/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusalves22/)
-[![Email](https://img.shields.io/badge/matheus.xavier.alves@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.xavier.alves@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusalves22/)
+[![Email](https://img.shields.io/badge/Email-matheus.xavier.alves%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.xavier.alves@gmail.com)
 
 ---
 
-> "Qualidade nao e apenas encontrar erros, e ajudar a construir produtos mais confiaveis."
+> "Qualidade não é apenas encontrar erros, é ajudar a construir produtos mais confiáveis."
