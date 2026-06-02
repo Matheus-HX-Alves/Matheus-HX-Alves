@@ -61,19 +61,11 @@ Projeto voltado a testes de API com Postman, reforcando praticas de validacao, o
 
 ---
 
-## Estatisticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-HX-Alves&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-HX-Alves&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-Matheus--HX--Alves-181717?style=for-the-badge&logo=github)](https://github.com/Matheus-HX-Alves)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adicionar_link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Adicionar_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adicionar_link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusalves22/)
+[![Email](https://img.shields.io/badge/matheus.xavier.alves@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.xavier.alves@gmail.com)
 
 ---
 
